@@ -1,4 +1,4 @@
-class Questions
+class Question
 
     attr_accessor :num1 , :num2
     
